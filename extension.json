@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "BaanRevit",
+    "description": "Extensions for PyRevit, Streamline unit conversions and unit symbol display in Revit with BaanRevit.extension. Simplify your AEC workflows today.",
+    "author": "Chatpong Deepet",
+    "author_profile": "https://github.com/chatpongdeepet",
+    "url": "https://github.com/chatpongdeepet/Chatpong-BaanRevit",
+    "website": "https://www.linkedin.com/in/chatpong-deepet-75745a1b0/",
+    "image": "",
+    "dependencies": []
+}
